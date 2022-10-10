@@ -1,0 +1,14 @@
+C:\Users\xcbcadam\source\repos\testfree\WcfService1\bin\WcfService1.dll.config
+C:\Users\xcbcadam\source\repos\testfree\WcfService1\bin\WcfService1.dll
+C:\Users\xcbcadam\source\repos\testfree\WcfService1\bin\WcfService1.pdb
+C:\Users\xcbcadam\source\repos\testfree\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\xcbcadam\source\repos\testfree\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\xcbcadam\source\repos\testfree\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\xcbcadam\source\repos\testfree\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\xcbcadam\Source\Repos\pruebaWS\WcfService1\bin\WcfService1.dll.config
+C:\Users\xcbcadam\Source\Repos\pruebaWS\WcfService1\bin\WcfService1.dll
+C:\Users\xcbcadam\Source\Repos\pruebaWS\WcfService1\bin\WcfService1.pdb
+C:\Users\xcbcadam\Source\Repos\pruebaWS\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\xcbcadam\Source\Repos\pruebaWS\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\xcbcadam\Source\Repos\pruebaWS\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\xcbcadam\Source\Repos\pruebaWS\WcfService1\obj\Debug\WcfService1.pdb
